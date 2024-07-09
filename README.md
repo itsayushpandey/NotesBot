@@ -1,5 +1,6 @@
 # NotesBot: Question answering using RAG on class notes
-Overview
+
+## Overview
 The Q-A Bot project aims to create an advanced Question-Answering (QA) system using Retrieval-Augmented Generation (RAG) techniques. This system is designed to answer user queries accurately by leveraging external knowledge bases.
 
 ## Key Components and Workflow
